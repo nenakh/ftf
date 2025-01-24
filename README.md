@@ -25,7 +25,7 @@ The prioritization algorithm is currently nothing more than a system of weights,
 - **R**equirement: Is the thing _required_ in some absolute sense, i.e. in the sense that taxes and life-saving treatments are required?
 - **O**bligation: Is there some sort of "social obligation" involved, i.e. will your decisions effect others?
 - **S**ignificance: How _significant_ is the thing to your own goals and motivations?
-- **E**ffect: What sort of effect will the completion of the thing, or lack thereof, have on your life?
+- **E**nthusiasm: How _enthusiastic_ are you about doing the thing?
 - **Bu**rden: How much time, per day, will it take to complete the thing?
 - **D**ue (or **D**eadline): How much total time do you have left until the thing is due?
 
